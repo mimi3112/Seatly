@@ -10,7 +10,9 @@ Seatly solves two problems that simple student booking apps ignore:
 > Course project, Oct 2026. Built and demonstrated on AWS (ap-south-1, Mumbai).
 ## Author
 Soumya Dubey, B.Tech CSE, Ramdeobaba University, Nagpur
+
 Harshita Chaudhari, B.Tech CSE, Ramdeobaba University, Nagpur
+
 Meenakshi Motwani, B.Tech CSE, Ramdeobaba University, Nagpur
 
 ---
