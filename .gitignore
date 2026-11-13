@@ -1,0 +1,19 @@
+# secrets
+.env
+*.env
+*.pem
+*.key
+
+# python and local run files
+__pycache__/
+*.pyc
+.venv/
+logs/
+*.sqlite
+*.db
+
+# downloads and editor files
+*.zip
+.vscode/
+.DS_Store
+infra/
